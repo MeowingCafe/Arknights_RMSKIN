@@ -1,0 +1,5 @@
+Novecento wide Normal
+Novecento wide UltraLight //字重标识错误，应为Medium
+方正特雅宋_GBK
+Noto Sans S Chinese Medium
+Noto Sans S Chinese DemiLight
