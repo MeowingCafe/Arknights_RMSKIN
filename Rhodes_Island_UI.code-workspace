@@ -2,10 +2,9 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "..\\Testing"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.encoding": "utf16le"
+	}
 }
