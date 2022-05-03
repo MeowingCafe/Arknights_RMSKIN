@@ -76,5 +76,8 @@ Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写
 - [ ] SteamTerminal配置：不使用外部软件实现显示硬件温度，在找到实现方法之前，暂时不做。<br>
 如果已装有相关软件……打开`Rhodes_Island_UI\@Resources\Modules\msSteam.ini`自己动手吧。
 - [ ] SteamTerminal配置：改为本地实现，显示最近运行与正在运行的游戏，目前没有头绪。
+- [ ] WeatherTerminal配置？
+- [ ] Button：复刻角色管理UI，实现应用抽屉？？
+- [ ] 设置UI。
 - [ ] ~~3D透视，不支持。~~
 - [ ] 静态阴影。
