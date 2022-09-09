@@ -91,7 +91,7 @@ Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写
 - [ ] Assistant：与VoiceBox联动，允许导入语音与文本，支持闲置、交谈、问候行为。
 - [x] MusicTerminal配置：支持在线音乐网站从而适配猪鹅厂。（考虑使用[这个](https://github.com/tjhrulz/WebNowPlaying-BrowserExtension)）
 - [ ] ~~SteamTerminal配置：不使用外部软件实现显示硬件温度，在找到实现方法之前，暂时不做。~~<br>
-看来是找不到了，如果已装有相关软件……打开`Rhodes_Island_UI\@Resources\Modules\msHWTemp.ini`自己动手吧。
+看来是找不到了，如果已装有相关软件……打开`Rhodes_Island_UI\@Resources\Modules\msSysTemp.ini`自己动手吧。
 - [ ] SteamTerminal配置：改为本地实现，显示最近运行与正在运行的游戏，目前没有头绪。
 - [x] WeatherTerminal配置？
 - [ ] Button：复刻角色管理UI，实现应用抽屉？
