@@ -1,7 +1,15 @@
+# assets/bin/Data/sharedassets0.assets.split*
 # assets/bin/Data/sharedassets3.assets.split*
 
+Novecento wide Normal
+Novecento wide UltraLight (实际为: Novecento wide Medium)
+
+# CN
 方正特雅宋_GBK
 Noto Sans S Chinese Medium
 Noto Sans S Chinese DemiLight
-Novecento wide Normal
-Novecento wide UltraLight # 字重标识错误？实际为Medium。
+
+# EN
+方正特雅宋_GBK (Actually: Oswald DemiBold)
+Noto Sans S Chinese Medium (Actually: NuberNext DemiBold Condensed)
+Noto Sans S Chinese DemiLight (Actually: NuberNext DemiBold Condensed)
