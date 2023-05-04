@@ -1,5 +1,6 @@
 # Arknights_RMSKIN
 ![Main Layout](docs/img/Desktop.jpg)
+<center style="font-size:12px">(修改过颜色和样式的效果)</center><br>
 
 让您在PC上也能享受到罗德岛终端系统的交互界面！
 
@@ -23,7 +24,8 @@
 通过Sources：[下载](https://github.com/zhengzhi805/Arknights_RMSKIN/archive/refs/heads/master.zip)本存储库，将`RMSKIN`目录下的`Skins`与`Layouts`文件夹合并到Rainmeter的安装目录，刷新或重新启动Rainmeter，加载`Rhodes_Island`主题。
 
 ### 设置
-设置文件位于`Rainmeter\Skins\Rhodes_Island_UI\@Resources\`，编辑该目录下的`Settings.ini`与`PanelSettings.ini`即可对本套装进行定制，备份也没有问题。<br>
+全新推出……设置UI！`#Settings`<br>
+另外，设置文件位于`Rainmeter\Skins\Rhodes_Island_UI\@Resources\`，编辑该目录下的`Settings.ini`即可对本套装进行定制，备份也没有问题。<br>
 Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写请参考Windows运行命令或Rainmeter的[Bangs命令](https://docs.rainmeter.net/manual/bangs/)。
 
 
@@ -71,7 +73,7 @@ Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写
 
 - Terminal 作战终端
 
-  - Music: 与~~古墓派~~--本地--音乐播放器联动，显示正在播放与专辑封面。（噢我就是下载到本地的古墓派啊没问题没问题）也支持联动WebNowPlaying。
+  - Music: 与~~古墓派~~--本地--音乐播放器联动，显示正在播放与专辑封面。（噢我就是下载到本地的古墓派啊没问题没问题）但也支持联动WebNowPlaying。
   - Steam: 将显示最近运行的Steam游戏与指定的硬件温度（倒数）。
   - Weather: 将显示指定地点的当前天气。
 
@@ -79,12 +81,12 @@ Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写
 
 - Operator 干员管理
 
-  - Single: 普普通通的按钮。
-  - Double: 普普通通的按钮，但是一对儿。
+  - Button: 普普通通的按钮。
+  - ButtonDouble: 普普通通的按钮，但是一对儿。
 
 - Store 采购中心
 
-  - Links: 浏览器和链接按钮，当然改成别的也行。
+  - Button: 龙门币色按钮，默认为浏览器和链接，当然改成别的也行。
 
 - Mission 任务
 
@@ -101,7 +103,7 @@ Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写
 
 - SceneEffect 场景特效
 
-  ？？？等着push
+  马上就好
 
 
 ## 补充的奖金章
@@ -112,22 +114,10 @@ Icon指定了图标路径；Action指定了点击操作，`[]`方括号的填写
 [改变配色？](# "咕咕咕")
 
 
-## 可能不是很想做的
-鉴于技术有限，轮子过杂，环境不同等原因……
-- [x] Storage：完成显示接入存储功能：显示可移动存储数量以及空间不足的存储数。
-- [x] Assistant：与VoiceBox联动，允许导入语音与文本，支持闲置、交谈、问候行为。
-- [x] MusicTerminal配置：支持在线音乐网站从而适配猪鹅厂。（考虑使用[这个](https://github.com/tjhrulz/WebNowPlaying-BrowserExtension)）
-- [ ] ~~SteamTerminal配置：不使用外部软件实现显示硬件温度，在找到实现方法之前，暂时不做。~~<br>
-看来是找不到了，如果已装有相关软件……打开`Rhodes_Island_UI\@Resources\Modules\mSysTemp.ini`自己动手吧。
-- [ ] ~~SteamTerminal配置：改为本地实现，显示最近运行与正在运行的游戏，目前没有头绪。~~
-- [x] WeatherTerminal配置？
-- [ ] 复刻角色管理UI，实现应用抽屉？
-- [ ] 缩放支持
-- [ ] 修改休息计时器
-- [ ] 设置UI。
-- [ ] 静态阴影。
+## 想搞的东西
+整理中，待编辑。
 
 
 ## 借物表
-- JDWI天气图标、JDW天气解析器
+- JDWI天气图标、JD天气解析器
 - 社区中的诸多皮肤，用于参考编写方法与技巧
