@@ -5,6 +5,20 @@
 		}
 	],
 	"settings": {
-		"files.encoding": "utf16le"
+		"files.autoGuessEncoding": true,
+		"[ini]": {
+			  "files.encoding": "utf16le"
+		},
+		"[inc]": {
+			  "files.encoding": "utf16le"
+		},
+		"emeraldwalk.runonsave": {
+			"commands": [
+				{
+					"match": ".ini",
+					"cmd": "\"D:\\StandalonePrograms\\Rainmeter\\Rainmeter.exe\" !Refresh"
+				}
+			]
+		}
 	}
 }
