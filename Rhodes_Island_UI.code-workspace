@@ -15,7 +15,7 @@
 		"emeraldwalk.runonsave": {
 			"commands": [
 				{
-					"match": ".ini",
+					"match": ".ini|.inc",
 					"cmd": "\"D:\\StandalonePrograms\\Rainmeter\\Rainmeter.exe\" !Refresh"
 				}
 			]
