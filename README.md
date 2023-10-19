@@ -10,7 +10,7 @@
 ## 安装与设置
 ### 依赖
 - Rainmeter
-    - [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying)插件：联动在线音乐网站的信息与控制，也需要浏览器安装[扩展](https://github.com/tjhrulz/WebNowPlaying#extension-links)。
+    - [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter)插件：联动在线音乐网站的信息与控制，也需要浏览器安装[扩展](https://github.com/keifufu/WebNowPlaying-Redux)。
     - [FrostedGlass](https://forum.rainmeter.net/viewtopic.php?t=23106)插件：允许皮肤以Win10的Acrylic材质为背景。
     - [MSIAfterburner](https://forums.guru3d.com/threads/319558/)插件：在特定的终端中显示指定的硬件温度。
 - 游戏原作使用到的数个[字体](RMSKIN/Skins/Rhodes_Island_UI/%40Resources/Fonts/FontList.txt)
